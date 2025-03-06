@@ -1,0 +1,3 @@
+plugin.npca.jwt.configuration.JwtStarterAutoConfiguration
+plugin.npca.jwt.configuration.SpringSecurityConfiguration
+plugin.npca.jwt.configuration.CorsConfig
