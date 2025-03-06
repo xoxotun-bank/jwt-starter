@@ -12,8 +12,8 @@ import org.junit.jupiter.params.provider.*;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-import plugin.npca.jwt.configuration.*;
-import plugin.npca.jwt.token.*;
+import com.example.jwtstarter.configuration.*;
+import com.example.jwtstarter.token.*;
 
 @SpringBootTest(classes = {JwtStarterAutoConfiguration.class})
 @ActiveProfiles("dev")
